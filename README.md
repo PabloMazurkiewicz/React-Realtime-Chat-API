@@ -2,41 +2,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/altrawan/realtime-chat-api">
-    <img src="https://lh3.googleusercontent.com/d/1VmImOVcKX-U-8k8jd3Ha70u8_hMJOEiy" alt="Logo" width="150px">
-  </a>
-
-  <h3 align="center">Telegram Chatting : Backend Realtime Chat</h3>
-
-  <p align="center">
-    Create a Node.js app for building realtime chat RESTful APIs using Express.
-    <br />
-    <a href="#table-of-contents"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://telegram-chatting.herokuapp.com/">View Web Service</a>
-    ·
-    <a href="https://github.com/altrawan/realtime-chat-api/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/altrawan/realtime-chat-api/issues">Request Feature</a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/altrawan/realtime-chat-api/issues">
-      <img src="https://img.shields.io/github/issues/altrawan/realtime-chat-api?style=flat">
-    </a>
-    <a href="https://github.com/altrawan/realtime-chat-api/network/members">
-      <img src="https://img.shields.io/github/forks/altrawan/realtime-chat-api?style=flat">
-    </a>
-    <a href="https://github.com/altrawan/realtime-chat-api/stargazers">
-      <img src="https://img.shields.io/github/stars/altrawan/realtime-chat-api?style=flat">
-    </a>
-    <a href="./LICENSE">
-      <img src="https://img.shields.io/github/license/altrawan/realtime-chat-api?style=flat">
-    </a>
-  </p>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -59,11 +24,7 @@
       </ul>
     </li>
     <li><a href="#rest-api">REST API</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#related-project">Related Project</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
@@ -71,7 +32,6 @@
 ## About The Project
 Create a Node.js app for building realtime chat RESTful APIs using Express.
 
-[![Bcrypt](https://img.shields.io/github/package-json/dependency-version/altrawan/realtime-chat-api/bcrypt?color=brightgreen?style=flat-square&logo=appveyor)](https://nodejs.org/)
 
 ### Built With
 This app was built with some technologies below:
@@ -103,11 +63,11 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone the Repo
 ```
-git clone https://github.com/altrawan/realtime-chat-api.git
+git clone https://github.com/PabloMazurkiewicz/React-Realtime-Chat-API.git
 ```
 - Go To Folder Repo
 ```
-cd realtime-chat-api
+cd React-Realtime-Chat-API
 ```
 - Install Module
 ```
@@ -163,40 +123,11 @@ You can view my Postman collection [here](https://www.postman.com/warped-shadow-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Related Project
-:rocket: [`Backend Telegram Chatting`](https://github.com/altrawan/realtime-chat-api)
+:rocket: [`Backend Telegram Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-API.git)
 
-:rocket: [`Frontend Telegram Chatting`](https://github.com/altrawan/telegram-app)
+:rocket: [`Frontend Telegram Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-Front.git)
 
-:rocket: [`Web Service`](https://telegram-chatting.herokuapp.com/)
-
-:rocket: [`Demo Telegram Chatting`](https://bit.ly/telegram-chatting)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-## Contact
-
-My Email : muhammadalifputra8888@gmail.com
-
-Project Link: [https://github.com/altrawan/realtime-chat-api](https://github.com/altrawan/realtime-chat-api)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## License
-Distributed under the [MIT](/LICENSE) License.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
