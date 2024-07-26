@@ -125,9 +125,9 @@ You can view my Postman collection [here](https://www.postman.com/warped-shadow-
 
 
 ## Related Project
-:rocket: [`Backend Telegram Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-API.git)
+:rocket: [`Backend Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-API.git)
 
-:rocket: [`Frontend Telegram Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-Front.git)
+:rocket: [`Frontend Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-Front.git)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
